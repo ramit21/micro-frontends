@@ -1,6 +1,8 @@
 # micro-frontends
 Micro frontends POC
 
+Theory: https://www.linkedin.com/posts/ramit-sharma-48110060_activity-7004091756652752896-T7pB
+
 Steps to run the POC:
 Run 'npm install' and then 'npm start' (which spins up webpack server) inside all 3 folders: container, products, cart. Open http://localhost:8081/ for product, http://localhost:8082/ for cart, http://localhost:8080/ for the main container app.
 
